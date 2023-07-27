@@ -1,2 +1,33 @@
-@font-face{font-family:EurostileNextPro-Ext;font-weight:400;font-style:normal;font-display:swap;src:url(/fonts/eurostile-next-lt-pro-regular-extended.otf) format("opentype")}@font-face{font-family:EurostileNextPro-Ext;font-weight:700;font-style:normal;font-display:swap;src:url(/fonts/eurostile-next-lt-pro-regular-extended.otf) format("opentype")}@font-face{font-family:KARMAPERFORMANCE;font-weight:400;font-style:normal;font-display:swap;src:url(/css/fonts/karmaperformance.woff2) format("woff2")}@font-face{font-family:KARMAPERFORMANCE;font-weight:700;font-style:normal;font-display:swap;src:url(/css/fonts/karmaperformance.woff2) format("woff2")}
-/*# sourceMappingURL=/cdn/shop/t/56/assets/css/fonts.css.map?v=4610097452861866771689786869 */
+@font-face {
+    font-family: EurostileNextPro-Ext;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url(/cdn/shop/t/56/assets/eurostilenextproext.woff2?v=13819857091727563281689395290) format("woff2")
+  }
+  
+  @font-face {
+    font-family: EurostileNextPro-Ext;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url(/cdn/shop/t/56/assets/eurostilenextproextbold.woff2?v=159748612287979120181689395290) format("woff2")
+  }
+  
+  @font-face {
+    font-family: KARMAPERFORMANCE;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url(/cdn/shop/t/56/assets/karmaperformance.woff2?v=58855890688764468681689395290) format("woff2")
+  }
+  
+  @font-face {
+    font-family: KARMAPERFORMANCE;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url(/cdn/shop/t/56/assets/karmaperformance.woff2?v=58855890688764468681689395290) format("woff2")
+  }
+  
+  /*# sourceMappingURL=/cdn/shop/t/56/assets/fonts.css.map?v=4610097452861866771689786869 */
